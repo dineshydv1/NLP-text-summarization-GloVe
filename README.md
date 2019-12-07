@@ -1,4 +1,4 @@
-# NLP-text-summarization-GloVe
+# NLP Text Summarization
 #### Text summarization using GloVe algorithm
 
 Hereby, I am building a "News Briefer" using GloVe algorithm by scrapping TimesOfIndia RSS feeds to get news article text. This text is further passed to GloVe algorithm to create a brief summary of N sentences. 
